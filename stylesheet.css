@@ -2,6 +2,10 @@
     color: #fff;
     background-color: rgb(19, 121, 223);
     border: none;
-    height: 1cm;
-    width: 30cm;
+    height: 1.5cm;
+    width: 29cm;
+    position: relative;
+    left:1.5%;
+    border-radius: 10px;
+
 }
